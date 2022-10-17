@@ -1,0 +1,32 @@
+## /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Enlaces de donde se sacó la información:
+
+
+Tasa de interés CETE (valores públicos mensual)
+https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=18&accion=consultarCuadroAnalitico&idCuadro=CA51&locale=es
+
+Inflación (variación anual)
+https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=8&accion=consultarCuadro&idCuadro=CP151&locale=es
+
+Tipo de cambio final del periodo (mensual)
+https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=6&accion=consultarCuadro&idCuadro=CF85&locale=es
+
+Producto Interno Bruto  (a precios de mercado)
+	https://www.inegi.org.mx/app/indicadores/?tm=0
+
+Tasa de desocupación (POBLACION TOTAL)
+https://www.inegi.org.mx/app/buscador/default.html?q=444666 
+
+## /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Otros enlaces:
+
+PIB (en monto)
+https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=2&accion=consultarDirectorioCuadros&locale=es
+
+PIB 
+https://www.inegi.org.mx/programas/pib/2013/#Datos_abiertos
+https://www.inegi.org.mx/datosabiertos/
+
+	
+
+	
